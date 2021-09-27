@@ -30,6 +30,5 @@ namespace TeachMeSkills.Zikunov.Homework1
 
             Console.WriteLine($"\n\nDay of the week is {daysOfWeek[numberOfTheDay(day, month, year)]}");
             Console.ReadKey();
-        }
     }
 }
